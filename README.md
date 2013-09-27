@@ -15,3 +15,10 @@ some line
 
 
 This is a [link](http://www.apple.com) to Apple
+
+
+This is a reference link in markdown to [Apple][1]
+
+
+
+[1]: http:www.apple.com
